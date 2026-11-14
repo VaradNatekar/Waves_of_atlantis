@@ -1,0 +1,10 @@
+@"
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+.vscode/
+.DS_Store
+"@ | Set-Content .gitignore
